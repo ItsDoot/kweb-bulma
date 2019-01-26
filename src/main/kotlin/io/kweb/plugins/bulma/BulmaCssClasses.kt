@@ -835,6 +835,8 @@ class BulmaCssClasses : AttributeBuilder() {
 
     val panel by "panel"
 
+    val panelHeading by "panel-heading"
+
     val panelTabs by "panel-tabs"
 
     val panelBlock by "panel-block"
