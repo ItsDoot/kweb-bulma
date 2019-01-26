@@ -821,6 +821,8 @@ class BulmaCssClasses : AttributeBuilder() {
      * Components - Pagination
      */
 
+    val pagination by "pagination"
+
     val paginationPrevious by "pagination-previous"
 
     val paginationNext by "pagination-next"
